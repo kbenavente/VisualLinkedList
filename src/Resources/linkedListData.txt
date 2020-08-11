@@ -1,0 +1,15 @@
+Planet
+Moon
+Moon Mass
+
+Earth, Moon, 0.734
+Saturn, Titan, 1.3452
+Saturn, Enceladus, 0.00108
+Mars, Phobos, 0.000000106
+Saturn, Dione, 0.0109
+Jupiter, Europa, 0.4799
+Neptune, Triton, 0.214
+Jupiter, Ganymede, 1.48
+Jupiter, Io, 0.8931
+Uranus, Titania, 0.034
+Jupiter, Callisto, 10800
